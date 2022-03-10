@@ -1,0 +1,13 @@
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\bin\Debug\prjLiveProject.exe.config
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\bin\Debug\prjLiveProject.exe
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\bin\Debug\prjLiveProject.pdb
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\obj\Debug\prjLiveProject.csprojResolveAssemblyReference.cache
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\obj\Debug\prjLiveProject.Form1.resources
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\obj\Debug\prjLiveProject.Properties.Resources.resources
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\obj\Debug\prjLiveProject.csproj.GenerateResource.Cache
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\obj\Debug\prjLiveProject.exe
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\obj\Debug\prjLiveProject.pdb
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\bin\Debug\MySql.Data.dll
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\bin\Debug\Google.Protobuf.dll
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\bin\Debug\MySql.Data.xml
+c:\users\akwasi\documents\visual studio 2015\Projects\prjLiveProject\prjLiveProject\obj\Debug\prjLiveProject.frmNewPurchase.resources
